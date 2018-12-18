@@ -26,3 +26,11 @@
 * [thoughtbot](https://github.com/thoughtbot/til)
 * [jbranchaud](https://github.com/jbranchaud/til)
 * [channprj](https://github.com/channprj/til)
+
+## License
+-------
+
+© 2018 seonghojung
+Distributed under the [Creative Commons Attribution License][license].
+
+[license]: http://creativecommons.org/licenses/by/3.0/
