@@ -21,11 +21,21 @@
 
 ### Algorithm
 
+---
+
 ## Inspired by
 
-* [thoughtbot](https://github.com/thoughtbot/til)
-* [jbranchaud](https://github.com/jbranchaud/til)
-* [channprj](https://github.com/channprj/til)
+* [@thoughtbot](https://github.com/thoughtbot/til)
+* [@jbranchaud](https://github.com/jbranchaud/til)
+* [@channprj](https://github.com/channprj/til)
+
+---
+
+## Rules
+* Directory and files would be lowercase
+* Follow GFM(Github Flavored Markdown)
+
+---
 
 ## License
 -------
