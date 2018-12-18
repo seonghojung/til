@@ -38,7 +38,6 @@
 ---
 
 ## License
--------
 
 © 2018 seonghojung
 Distributed under the [Creative Commons Attribution License][license].
