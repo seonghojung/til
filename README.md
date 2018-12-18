@@ -6,10 +6,10 @@
 ---
 
 ## Categories
-* [Python]
-* [Django]
-* [Node.js]
-* [Algorithm]
+* [Python](#python)
+* [Django](#django)
+* [Node.js](#node.js)
+* [Algorithm](#algorithm)
 
 ---
 
