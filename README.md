@@ -8,7 +8,7 @@
 ## Categories
 * [Python](#python)
 * [Django](#django)
-* [Node.js](#node.js)
+* [NodeJS](#nodeJS)
 * [Algorithm](#algorithm)
 
 ---
@@ -17,7 +17,7 @@
 
 ### Django
 
-### Node.js
+### NodeJS
 
 ### Algorithm
 
