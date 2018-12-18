@@ -23,6 +23,7 @@
 
 - [Complexity of Algorithm(python)](algorithm/complexity-of-algorithm.md)
 - [Find Maximum Value(python)](algorithm/find-maximum-value.md)
+- [Find Same Name(python)](algorithm/find-same-name.md)
 
 ---
 
