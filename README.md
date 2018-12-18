@@ -21,6 +21,8 @@
 
 ### Algorithm
 
+- [Complexity of Algorithm](algorithm/complexity-of-algorithm.md)
+
 ---
 
 ## Inspired by
