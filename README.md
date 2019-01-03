@@ -32,6 +32,7 @@
 ### CSS3
 
 - [BEM](css3/BEM.md)
+- [Margin Collapsing](css3/margin-collapsing.md)
 
 ---
 
