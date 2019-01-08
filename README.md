@@ -37,6 +37,8 @@
 
 ### JavaScript
 
+- [Variable Naming Rule](javascript/variable-naming-rule.md)
+
 ---
 
 ## Inspired by
