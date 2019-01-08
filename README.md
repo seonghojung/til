@@ -8,10 +8,11 @@
 ## Categories
 * [Python](#python)
 * [Django](#django)
-* [NodeJS](#nodeJS)
+* [NodeJS](#nodejs)
 * [Algorithm](#algorithm)
 * [HTML5](#html5)
 * [CSS3](#css3)
+* [JavaScript](#javascript)
 
 ---
 
@@ -33,6 +34,8 @@
 
 - [BEM](css3/BEM.md)
 - [Margin Collapsing](css3/margin-collapsing.md)
+
+### JavaScript
 
 ---
 
