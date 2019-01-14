@@ -24,6 +24,7 @@
 
 - [Running Web-Server](nodejs/running-webserver.md)
 - [File System Module](nodejs/file-system-module.md)
+- [Parcel](nodejs/parcel.md)
 
 ### Algorithm
 
@@ -37,6 +38,7 @@
 
 - [BEM](css3/BEM.md)
 - [Margin Collapsing](css3/margin-collapsing.md)
+- [PostCSS and Parcel](css3/postcss-and-parcel.md)
 
 ### JavaScript
 
