@@ -24,7 +24,8 @@
 
 - [Running Web-Server](nodejs/running-webserver.md)
 - [File System Module](nodejs/file-system-module.md)
-- [Parcel](nodejs/parcel.md)
+- [Parcel Module](nodejs/parcel.md)
+- [Sanitize HTML Module](nodejs/sanitize-html.md)
 
 ### Algorithm
 
