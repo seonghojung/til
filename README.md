@@ -13,6 +13,7 @@
 * [HTML5](#html5)
 * [CSS3](#css3)
 * [JavaScript](#javascript)
+* [MySQL](#mysql)
 
 ---
 
@@ -44,6 +45,8 @@
 ### JavaScript
 
 - [Variable Naming Rule](javascript/variable-naming-rule.md)
+
+### MySQL
 
 ---
 
