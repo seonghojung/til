@@ -85,3 +85,8 @@ console.log(str.trim());
 ```
 Hello world
 ```
+
+### 참고 링크
+JavaScript String Methods 관련 링크
+* [MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/String/prototype)
+* [W3Schools](https://www.w3schools.com/js/js_string_methods.asp)
