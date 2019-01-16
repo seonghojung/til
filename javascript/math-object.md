@@ -102,6 +102,6 @@ console.log(Math.random());
 ```
 
 ### 참고 링크
-JavaScript 코드를 쓸 때 추천하는 방식들을 정리해놓은 링크
-* https://www.w3schools.com/js/js_conventions.asp
-* https://github.com/tipjs/javascript-style-guide
+JavaScript Math Object 관련 링크
+* [MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Math)
+* [W3Schools](https://www.w3schools.com/js/js_math.asp)
