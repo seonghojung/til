@@ -28,6 +28,7 @@
 - [Parcel Package](nodejs/parcel.md)
 - [Sanitize HTML Module](nodejs/sanitize-html.md)
 - [Babel Package](nodejs/babel.md)
+- [Nodemon Package](nodejs/nodemon.md)
 
 ### Algorithm
 
