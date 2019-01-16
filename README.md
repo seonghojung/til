@@ -45,6 +45,7 @@
 ### JavaScript
 
 - [Variable Naming Rule](javascript/variable-naming-rule.md)
+- [Math Object](javascript/math-object.md)
 
 ### MySQL
 
