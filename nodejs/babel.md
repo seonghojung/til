@@ -2,7 +2,7 @@
 
 ### What is Babel?
 Babel은 JavaScript Compiler로써 다음 세대의 JavaScript(ES6와 같은) 코드를 기존의 JavaScript 문법으로 변환해주는 패키지다.  
-* [Babel Site Link](https://babeljs.io/)  
+* [Babel Website Link](https://babeljs.io/)  
 
 nodejs에서 사용할 Babel 설치하기 위한 명령(3개 한 번에 설치)
 ```
