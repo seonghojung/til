@@ -57,6 +57,7 @@
 ### jQeury
 
 - [Common Action Methods](jquery/action-method.md)
+- [Event Summary](jquery/event-summary.md)
 
 ---
 
