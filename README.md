@@ -15,6 +15,7 @@
 * [JavaScript](#javascript)
 * [MySQL](#mysql)
 * [jQuery](#jqeury)
+* [etc.](#etc)
 
 ---
 
@@ -58,6 +59,8 @@
 
 - [Common Action Methods](jquery/action-method.md)
 - [Event Summary](jquery/event-summary.md)
+
+### etc.
 
 ---
 
