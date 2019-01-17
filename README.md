@@ -56,7 +56,7 @@
 
 ### jQeury
 
-- [Common Action Methods](jqueyr/action-method.md)
+- [Common Action Methods](jquery/action-method.md)
 
 ---
 
