@@ -14,6 +14,7 @@
 * [CSS3](#css3)
 * [JavaScript](#javascript)
 * [MySQL](#mysql)
+* [jQuery](#jqeury)
 
 ---
 
@@ -52,6 +53,10 @@
 - [Array Methods](javascript/array-methods.md)
 
 ### MySQL
+
+### jQeury
+
+- [Common Action Methods](jqueyr/action-method.md)
 
 ---
 
