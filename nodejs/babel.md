@@ -6,7 +6,7 @@ Babel은 JavaScript Compiler로써 다음 세대의 JavaScript(ES6와 같은) �
 
 nodejs에서 사용할 Babel 설치하기 위한 명령(3개 한 번에 설치)
 ```
-npm install @babel/node @babel/node @babel/preset-env
+npm install @babel/core @babel/node @babel/preset-env
 ```
 
 ### Preset
