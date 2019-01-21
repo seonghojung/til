@@ -45,6 +45,7 @@
 - [BEM](css3/BEM.md)
 - [Margin Collapsing](css3/margin-collapsing.md)
 - [PostCSS and Parcel](css3/postcss-and-parcel.md)
+- [Inherit](css3/inherit.md)
 
 ### JavaScript
 
