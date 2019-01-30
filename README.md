@@ -61,6 +61,7 @@
 
 - [Common Action Methods](jquery/action-method.md)
 - [Event Summary](jquery/event-summary.md)
+- [Making Animation](jquery/making-animation.md)
 
 ### etc.
 
