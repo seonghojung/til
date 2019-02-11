@@ -70,6 +70,7 @@
 
 ### etc.
 
+- [Github 마크다운 사용법](etc/mark-down.md)
 - [Atom Editor Settings Sync](etc/atom-settings-sync.md)
 - [VSCode Editor Settings Sync](etc/vscode-settings-sync.md)
 
