@@ -7,7 +7,6 @@
 
 ## Categories
 * [Python](#python)
-* [Django](#django)
 * [NodeJS](#nodejs)
 * [Algorithm](#algorithm)
 * [HTML5](#html5)
