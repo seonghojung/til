@@ -68,6 +68,8 @@
 
 ### AWS
 
+- [Deploy Express Project to EC2](aws/deploy_express_project.md)
+
 ### etc.
 
 - [Github 마크다운 사용법](etc/mark-down.md)
