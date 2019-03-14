@@ -68,7 +68,7 @@
 
 ### AWS
 
-- [Deploy Express Project to EC2](aws/deploy_express_project.md)
+- [Deploy Express Project to EC2](aws/deploy-express-project.md)
 
 ### etc.
 
