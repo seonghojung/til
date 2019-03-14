@@ -16,13 +16,12 @@
 * [MySQL](#mysql)
 * [jQuery](#jqeury)
 * [MongoDB](#mongodb)
+* [AWS](#AWS)
 * [etc.](#etc)
 
 ---
 
 ### Python
-
-### Django
 
 ### NodeJS
 
@@ -67,6 +66,8 @@
 ### MongoDB
 
 - [Setup and Setting Path](mongodb/setup-and-setting-path.md)
+
+### AWS
 
 ### etc.
 
