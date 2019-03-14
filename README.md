@@ -69,6 +69,7 @@
 ### AWS
 
 - [Deploy Express Project to EC2](aws/deploy-express-project.md)
+- [Deploy React WebApp Project to S3](aws/react-deploy-s3.md)
 
 ### etc.
 
