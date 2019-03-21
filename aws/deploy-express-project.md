@@ -6,10 +6,14 @@
 3. project cloning from git
 4. npm install(패키지 설치), .env 등 필요 파일 추가
 5. soft path 설정(node, npm, forever 등)
+ - 그 전에 forever global로 다시 한 번 설치
 ```terminal
-sudo ln -s ~/.nvm/versions/node/v10.15.3/bin/node /usr/local/bin
-sudo ln -s ~/.nvm/versions/node/v10.15.3/bin/npm /usr/local/bin
-sudo ln -s ~/.nvm/versions/node/v10.15.3/bin/forever /usr/local/bin
+npm i -g forever
+```
+```terminal
+sudo ln -s ~/.nvm/versions/node/{version of node}/bin/node /usr/local/bin
+sudo ln -s ~/.nvm/versions/node/{version of node}/bin/npm /usr/local/bin
+sudo ln -s ~/.nvm/versions/node/{version of node}/bin/forever /usr/local/bin
 ```
 6. secure_path 설정
  - sudo visudo 입력 후 "/" 누른 뒤 secure_path 검색
