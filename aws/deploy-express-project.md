@@ -2,7 +2,9 @@
 1. EC2 Instance 생성
 2. node, git 설치
  - node : [nvm 으로 설치](https://github.com/creationix/nvm)
+ 설치한 뒤 source ~/.bashrc 입력 후 node --version check
  - git : [git install](https://git-scm.com/book/ko/v1/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%84%A4%EC%B9%98)
+ git 설치시 sudo 붙여줘야 함..
 3. project cloning from git
 4. npm install(패키지 설치), .env 등 필요 파일 추가
 5. soft path 설정(node, npm, forever 등)
