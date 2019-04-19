@@ -22,3 +22,8 @@ sudo ln -s ~/.nvm/versions/node/{version of node}/bin/forever /usr/local/bin
  - secure_path에 :/usr/local/bin 폴더 추가 해줌
 7. npm start(빌드 및 배포 완료)
 8. Route 53 - DNS 연결 or 새로운 DNS 구매 후 연결
+
+9. node-sass 설치 에러시 아래 명령어 입력
+```terminal
+sudo rm -rf node_modules && npm rebuild node-sass && npm i
+```
