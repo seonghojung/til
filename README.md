@@ -53,6 +53,7 @@
 - [Math Object](javascript/math-object.md)
 - [String Methods](javascript/string-methods.md)
 - [Array Methods](javascript/array-methods.md)
+- [Input create commas](javascript/input-comma-create.md)
 
 ### MySQL
 
