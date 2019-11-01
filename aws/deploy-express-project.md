@@ -5,6 +5,7 @@
  source ~/.bashrc 입력 후 nvm install xx.xx.x 설치한 뒤  node --version check
  - git : [git install](https://git-scm.com/book/ko/v1/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%84%A4%EC%B9%98)
  git 설치시 sudo 붙여줘야 함..
+ 명령어 : sudo yum install curl-devel expat-devel gettext-devel openssl-devel zlib-devel
 3. project cloning from git
 4. npm install(패키지 설치), .env 등 필요 파일 추가
 5. soft path 설정(node, npm, forever 등)
