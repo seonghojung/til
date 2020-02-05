@@ -72,6 +72,7 @@
 - [Deploy Express Project to EC2](aws/deploy-express-project.md)
 - [Deploy React WebApp Project to S3](aws/react-deploy-s3.md)
 - [RSA Conflict](aws/rsa-conflict.md)
+- [Unprotected Private Key Error](aws/unprotected-private-key-file-error.md)
 
 ### etc.
 
