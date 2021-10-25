@@ -17,8 +17,8 @@
 git clone https://github.com/seonghojung/{repository name}.git
 ```
 4. npm install(패키지 설치), .env 등 필요 파일 추가
-5. soft path 설정(node, npm, forever 등)
- - 그 전에 forever global로 다시 한 번 설치
+5. soft path 설정(node, npm, pm2 등)
+ - 그 전에 pm2 global로 다시 한 번 설치
 ```terminal
 npm i -g forever
 ```
