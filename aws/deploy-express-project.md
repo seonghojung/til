@@ -20,7 +20,7 @@ git clone https://github.com/seonghojung/{repository name}.git
 5. soft path 설정(node, npm, pm2 등)
  - 그 전에 pm2 global로 다시 한 번 설치
 ```terminal
-npm i -g forever
+npm i -g pm2
 ```
 ```terminal
 sudo ln -s ~/.nvm/versions/node/{version of node}/bin/node /usr/local/bin
