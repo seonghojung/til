@@ -1,5 +1,5 @@
 # Express로 개발한 웹사이트 AWS EC2에 배포하기
-1. EC2 Instance 생성 [접속 방법 : ssh -i project_name.cer ec2-user@[project IP or Domain]
+1. EC2 Instance 생성 [접속 방법 : ssh -i project_name.cer ec2-user@[project IP or Domain]]
 2. node, git 설치
  - node : [nvm 으로 설치](https://github.com/creationix/nvm)
  ```terminal
