@@ -22,7 +22,6 @@ HTTPS 443 0.0.0.0/0, ::/0
 - Add EC2 Instances에서 연결할 인스턴스 선택
 - Listeners 세팅값
 ```terminal
-HTTP 80 HTTP 80
 TCP 22 TCP 22
 HTTPS 443 HTTP 80
 ```
