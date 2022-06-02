@@ -24,4 +24,5 @@ HTTPS 443 0.0.0.0/0, ::/0
 ```terminal
 TCP 22 TCP 22
 HTTPS 443 HTTP 80
+HTTP 80 HTTP 80
 ```
