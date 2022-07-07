@@ -77,6 +77,7 @@
 
 ### etc.
 
+- [mongoDB 데이터베이스 복사하는 방법](etc/mongodb-dump-restore.md)
 - [Github 마크다운 사용법](etc/mark-down.md)
 - [Atom Editor Settings Sync](etc/atom-settings-sync.md)
 - [VSCode Editor Settings Sync](etc/vscode-settings-sync.md)
