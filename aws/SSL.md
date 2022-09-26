@@ -10,7 +10,7 @@ HTTPS 443 0.0.0.0/0, ::/0
 
 ### 2. AWS Certificate Manager 에서 무료 인증서 발급받기
 - Provision certificates
-- Add doomain names에서 [domain.com], [www.domain.com] 추가
+- Add domain names에서 [domain.com], [www.domain.com] 추가
 - Select validation method 단계는 도메인이 AWS Route53으로 구입했다면 도메인 인증, 아니면 이메일 인증 진행
 - 인증 완료 후 발급 완료
 
