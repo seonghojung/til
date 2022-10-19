@@ -22,7 +22,7 @@ HTTPS 443 0.0.0.0/0, ::/0
 ### 4. Load Balancer 생성
 - Application Load Balancer 생성
 - 로드밸런서 Name 지정
-- Network mapping에서 ap-northeast-2a ~ 2d 까지 4개 모두 선택
+- Network mapping에서 ap-northeast-2a, 2b 2개 선택
 - Security Groups에서 EC2 생성시 만들었던 그룹 지정 [기본 그룹은 빼도되고 안빼도 됨]
 - 리스너에 생성해둔 타겟그룹 지정 [리스너는 HTTP 80, HTTPS 443 두가지로 생성]
 - HTTPS 리스너 만들 때 발급받은 무료 인증서 선택
