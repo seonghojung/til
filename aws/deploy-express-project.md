@@ -40,6 +40,9 @@ sudo ln -s ~/.nvm/versions/node/v16.14.2/bin/pm2 /usr/local/bin
 6. secure_path 설정
  - sudo visudo 입력 후 "/" 누른 뒤 secure_path 검색
  - secure_path에 :/usr/local/bin 폴더 추가 해줌
+```terminal
+:/usr/local/bin
+```
 7. npm start(빌드 및 배포 완료)
 8. Route 53 - DNS 연결 or 새로운 DNS 구매 후 연결
 
