@@ -15,7 +15,7 @@
  - git : [git install](https://git-scm.com/book/ko/v1/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%84%A4%EC%B9%98)
  git 설치시 sudo 붙여줘야 함..
  ```terminal
- sudo yum install curl-devel expat-devel gettext-devel openssl-devel zlib-devel
+ sudo yum install git
  ```
  - git --version 으로 버전 맞는지 확인  
 3. project cloning from git
