@@ -17,6 +17,10 @@
  ```terminal
  sudo yum install git
  ```
+만약 설치가 안된다면 아래 명령어로 설치
+```
+sudo dnf install git
+```
  - git --version 으로 버전 맞는지 확인  
 3. project cloning from git
 ```terminal
@@ -38,8 +42,9 @@ sudo ln -s ~/.nvm/versions/node/v20.12.0/bin/npm /usr/local/bin
 sudo ln -s ~/.nvm/versions/node/v20.12.0/bin/pm2 /usr/local/bin
 ```
 6. secure_path 설정
- - sudo visudo 입력 후 "/" 누른 뒤 secure_path 검색
+ - sudo visudo 입력 후 "Ctrl + W" 누른 뒤 secure_path 검색
  - secure_path에 :/usr/local/bin 폴더 추가 해줌
+ - "Ctrl + X" 입력 후 "Y" 입력 후 "Enter"키 누르면 저장 후 나가짐
 ```terminal
 :/usr/local/bin
 ```
