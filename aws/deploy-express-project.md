@@ -10,7 +10,7 @@
   source ~/.bashrc
   ```
   ```terminal
-  nvm install 16.14.2
+  nvm install 20.12.0
   ```
  - git : [git install](https://git-scm.com/book/ko/v1/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%84%A4%EC%B9%98)
  git 설치시 sudo 붙여줘야 함..
@@ -29,13 +29,13 @@ git clone https://github.com/seonghojung/{repository name}.git
 npm i -g pm2
 ```
 ```terminal
-sudo ln -s ~/.nvm/versions/node/v16.14.2/bin/node /usr/local/bin
+sudo ln -s ~/.nvm/versions/node/v20.12.0/bin/node /usr/local/bin
 ```
 ```terminal
-sudo ln -s ~/.nvm/versions/node/v16.14.2/bin/npm /usr/local/bin
+sudo ln -s ~/.nvm/versions/node/v20.12.0/bin/npm /usr/local/bin
 ```
 ```terminal
-sudo ln -s ~/.nvm/versions/node/v16.14.2/bin/pm2 /usr/local/bin
+sudo ln -s ~/.nvm/versions/node/v20.12.0/bin/pm2 /usr/local/bin
 ```
 6. secure_path 설정
  - sudo visudo 입력 후 "/" 누른 뒤 secure_path 검색
